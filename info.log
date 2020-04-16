@@ -1,0 +1,17 @@
+{"message":"Bookmark with id 4 not found","level":"error"}
+{"message":"Bookmark with id 4 not found","level":"error"}
+{"message":"No Title was provided","level":"error"}
+{"message":"No Title was provided","level":"error"}
+{"message":"No Content was provided for the card","level":"error"}
+{"message":"Card with id e5d4a8ad-29eb-4997-9845-e1a187af1cc4 created","level":"info"}
+{"message":"Card with id 53e72532-39e0-4c03-ae42-516425b39a41 created","level":"info"}
+{"message":"Card with id 65c28583-ff7a-4f87-98f8-a0dee8026b8a created","level":"info"}
+{"message":"Card with id undefined not found.","level":"error"}
+{"message":"Card with id undefined not found.","level":"error"}
+{"message":"Card with id undefined not found.","level":"error"}
+{"message":"Card with id undefined not found.","level":"error"}
+{"message":"Card with id undefined not found.","level":"error"}
+{"message":"Card with id 4 not found.","level":"error"}
+{"message":"Card with id 3 deleted","level":"info"}
+{"message":"Card with id 4 not found.","level":"error"}
+{"message":"Card with id 2 deleted","level":"info"}
